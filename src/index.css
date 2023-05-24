@@ -11,6 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.fontFamily{
+  font-family: 'Caveat'
+}
+.fontFamily2{
+  font-family: 'Work Sans'
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

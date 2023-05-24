@@ -1,12 +1,15 @@
-import React from 'react'
-import Header from './Components/Header'
+import React from "react";
+import "./App.css";
+import Header from "./Components/Header";
+import Banner from "./Components/Banner";
 
 const App = () => {
   return (
     <div>
-      <Header/>
+      <Header />
+      <Banner />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;

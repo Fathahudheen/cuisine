@@ -40,7 +40,7 @@ function Header() {
               </div>
             </div>
           </div>
-          <ul className="hidden md:flex gap-10 ms-24 font-thin">
+          <ul className="hidden md:flex gap-10 ms-24 font-normal">
             <li>
               <a href="/">Home</a>
             </li>
