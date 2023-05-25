@@ -10,15 +10,15 @@ const Banner = () => {
             Enjoy an North Indian Delight
           </span>
         </div>
-        <div className="text-white fontFamily2 font-extrabold text-3xl md:text-6xl mt-3 md:mt-6">
-          An El Classico for the North Indian dishes
+        <div className="text-white fontFamily2 font-black text-3xl md:text-6xl mt-3 md:mt-6">
+          <h1>An El Classico for the North Indian dishes</h1>
         </div>
         <div className="relative w-[270px] md:w-[400px] mt-3 md:mt-6">
             <div className="absolute  ">
                 <input className="w-[210px]  md:w-[400px] p-1 md:p-2 border-2 border-[#EB8E78] rounded-xl placeholder:text-sm " type="text" placeholder="Busca tu platillo favorito"/>
             </div>
             <div className="absolute right-0 ">
-                <button className="bg-[#EB8E78] rounded-xl ps-6 md:ps-9 pe-6 md:pe-9 pt-[5px] md:pt-[9px] pb-[7px] md:pb-[11px]">Buscar</button>
+                <button className="bg-[#EB8E78] text-white rounded-xl ps-6 md:ps-9 pe-6 md:pe-9 pt-[5px] md:pt-[9px] pb-[7px] md:pb-[11px]">Buscar</button>
             </div>
         </div>
 
